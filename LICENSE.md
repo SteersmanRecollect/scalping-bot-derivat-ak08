@@ -1,4 +1,4 @@
-# 
+# vip grid trading bot for futures Utility | leverage-management + stop-loss is the best grid trading bot for futures, featuring leverage-management and stop-loss. Smart, fast, and
 
 
 
